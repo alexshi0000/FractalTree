@@ -1,5 +1,5 @@
 # FractalTree
-visual arts in java graphics
+visual art using java graphics
 #### Features
 mutliple sliders adjusting recursion levels, offset angles, noise, and much more.  
 #### Gallery
